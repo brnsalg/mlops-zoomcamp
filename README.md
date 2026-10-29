@@ -1,3 +1,5 @@
 # mlops-zoomcamp
 
-This is an example
+conda activate base
+
+jupyter notebook
